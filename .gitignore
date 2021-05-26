@@ -1,5 +1,6 @@
+# No longer ignoring custom files for Enhanced Theme
 # custom files
-custom/
+# custom/
 
 # temp files directories
 cache/
